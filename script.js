@@ -1,5 +1,5 @@
 console.log('Hello World!');
 
-let nama = 'UdinM';
+let nama = 'user';
 
 console.log(nama);
